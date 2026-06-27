@@ -1,0 +1,6 @@
+{
+  "name": "Daily Self Expense Tracker",
+  "description": "A premium, professional, and fully responsive personal finance dashboard to track daily expenses, analyze budget status, and visualize spending habits with interactive charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
